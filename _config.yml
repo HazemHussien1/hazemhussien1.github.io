@@ -29,8 +29,8 @@ github_username:  hazemhussien1
 
   # Build settings
   # theme: minima
-theme: no-style-please"><img src=x onerror=alert(1)>
-remote_theme: riggraz/no-style-please@main
+#theme: no-style-please"><img src=x onerror=alert(1)>
+remote_theme: riggraz/no-style-please
 
 plugins:
   - jekyll-feed
